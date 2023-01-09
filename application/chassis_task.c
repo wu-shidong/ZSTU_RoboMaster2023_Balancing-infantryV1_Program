@@ -8,7 +8,7 @@
   *  Version    Date            Author          Modification
   *  V1.0.0     Dec-26-2018     RM              1. done
   *  V1.1.0     Nov-11-2019     RM              1. add chassis power control
-  *
+  *  V1.2.0     JAN-10-2023     Epsilon-Wu      2. modification test
   @verbatim
   ==============================================================================
 
